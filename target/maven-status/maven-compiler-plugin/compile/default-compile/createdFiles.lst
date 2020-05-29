@@ -1,0 +1,7 @@
+client\ClientApp.class
+client\executors\ExecThreads.class
+client\constants\Constants.class
+client\factory\JavaConfig.class
+client\factory\ObjectFactory.class
+client\net\HttpRequestsSingl.class
+client\factory\ConfigFactory.class
